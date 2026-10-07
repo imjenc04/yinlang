@@ -1,0 +1,179 @@
+{
+  "profiles": [
+    {
+      "artistId": "leehom",
+      "name": "王力宏",
+      "uid": "1793285524",
+      "photo": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/001Xmru4ly8ibto2h1kn8j60u00u0afg02.jpg?KID=imgbed,tva&Expires=1791280399&ssig=ZIKdLaeio3",
+      "sourceUrl": "https://www.sina.cn/media/1793285524",
+      "platform": "微博",
+      "sourceLabel": "新浪公开微博主页",
+      "fetchedAt": "2026-10-06T06:53:19.480765+00:00",
+      "platformUpdatedAt": null,
+      "metrics": [
+        {
+          "metric": "following",
+          "label": "关注数",
+          "displayValue": "89",
+          "exact": true,
+          "value": 89
+        },
+        {
+          "metric": "followers",
+          "label": "粉丝数",
+          "displayValue": "6692.3万",
+          "exact": false,
+          "value": null
+        },
+        {
+          "metric": "posts",
+          "label": "微博数量",
+          "displayValue": "3186",
+          "exact": true,
+          "value": 3186
+        }
+      ],
+      "note": "直接读取无需登录的新浪公开主页；平台未提供这些计数的更新时间，可能存在同步延迟。"
+    },
+    {
+      "artistId": "shanyi",
+      "name": "单依纯",
+      "uid": "5598574734",
+      "photo": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/0066T32uly8ibn1acuc7aj30u00u0wgs.jpg?KID=imgbed,tva&Expires=1791280618&ssig=tywQYalY1g",
+      "sourceUrl": "https://www.sina.cn/media/5598574734",
+      "platform": "微博",
+      "sourceLabel": "新浪公开微博主页",
+      "fetchedAt": "2026-10-06T06:56:59.071457+00:00",
+      "platformUpdatedAt": null,
+      "metrics": [
+        {
+          "metric": "following",
+          "label": "关注数",
+          "displayValue": "215",
+          "exact": true,
+          "value": 215
+        },
+        {
+          "metric": "followers",
+          "label": "粉丝数",
+          "displayValue": "1111万",
+          "exact": false,
+          "value": null
+        },
+        {
+          "metric": "posts",
+          "label": "微博数量",
+          "displayValue": "964",
+          "exact": true,
+          "value": 964
+        }
+      ],
+      "note": "直接读取无需登录的新浪公开主页；平台未提供这些计数的更新时间，可能存在同步延迟。"
+    },
+    {
+      "artistId": "chace",
+      "name": "Chace",
+      "uid": "3623041885",
+      "photo": "https://tvax3.sinaimg.cn/crop.0.0.500.500.50/d7f33b5dly8i6s62n4cspj20dw0dwaao.jpg?KID=imgbed,tva&Expires=1791352122&ssig=tep9IVF6lc",
+      "sourceUrl": "https://www.sina.cn/media/3623041885",
+      "platform": "微博",
+      "sourceLabel": "新浪公开微博主页",
+      "fetchedAt": "2026-10-07T02:48:43.462213+00:00",
+      "platformUpdatedAt": null,
+      "metrics": [
+        {
+          "metric": "following",
+          "label": "关注数",
+          "displayValue": "150",
+          "exact": true,
+          "value": 150
+        },
+        {
+          "metric": "followers",
+          "label": "粉丝数",
+          "displayValue": "31.2万",
+          "exact": false,
+          "value": null
+        },
+        {
+          "metric": "posts",
+          "label": "微博数量",
+          "displayValue": "585",
+          "exact": true,
+          "value": 585
+        }
+      ],
+      "note": "直接读取无需登录的新浪公开主页；平台未提供这些计数的更新时间，可能存在同步延迟。"
+    },
+    {
+      "artistId": "ouyang",
+      "name": "歐陽娜娜Nana",
+      "uid": "2687827715",
+      "photo": "https://tvax2.sinaimg.cn/crop.0.0.512.512.50/002VTQLVly8gm7ifpqregj60e80e874y02.jpg?KID=imgbed,tva&Expires=1791352133&ssig=Jbb2nBHrTE",
+      "sourceUrl": "https://www.sina.cn/media/2687827715",
+      "platform": "微博",
+      "sourceLabel": "新浪公开微博主页",
+      "fetchedAt": "2026-10-07T02:48:54.756990+00:00",
+      "platformUpdatedAt": null,
+      "metrics": [
+        {
+          "metric": "following",
+          "label": "关注数",
+          "displayValue": "415",
+          "exact": true,
+          "value": 415
+        },
+        {
+          "metric": "followers",
+          "label": "粉丝数",
+          "displayValue": "2063万",
+          "exact": false,
+          "value": null
+        },
+        {
+          "metric": "posts",
+          "label": "微博数量",
+          "displayValue": "4344",
+          "exact": true,
+          "value": 4344
+        }
+      ],
+      "note": "直接读取无需登录的新浪公开主页；平台未提供这些计数的更新时间，可能存在同步延迟。"
+    },
+    {
+      "artistId": "ding",
+      "name": "丁世光",
+      "uid": "1093345840",
+      "photo": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/412b2230ly8hwb3xosbelj20u00u00v0.jpg?KID=imgbed,tva&Expires=1791352135&ssig=KCpXlWaT8m",
+      "sourceUrl": "https://www.sina.cn/media/1093345840",
+      "platform": "微博",
+      "sourceLabel": "新浪公开微博主页",
+      "fetchedAt": "2026-10-07T02:48:55.760675+00:00",
+      "platformUpdatedAt": null,
+      "metrics": [
+        {
+          "metric": "following",
+          "label": "关注数",
+          "displayValue": "2",
+          "exact": true,
+          "value": 2
+        },
+        {
+          "metric": "followers",
+          "label": "粉丝数",
+          "displayValue": "106.3万",
+          "exact": false,
+          "value": null
+        },
+        {
+          "metric": "posts",
+          "label": "微博数量",
+          "displayValue": "465",
+          "exact": true,
+          "value": 465
+        }
+      ],
+      "note": "直接读取无需登录的新浪公开主页；平台未提供这些计数的更新时间，可能存在同步延迟。"
+    }
+  ]
+}
